@@ -91,7 +91,7 @@ mStepsView.setLabels(steps)
 <img src="images/android-image-slider.gif" alt="Chat Bubble Image" width="300px"/>
 </div>
 
-### [SparkButton](#sparkbutton)
+### [SparkButton](#spark-button)
 
 Highly customizable and lightweight library that allows you to create a button with animation effect similar to Twitter's heart animation.
 
@@ -101,7 +101,7 @@ Highly customizable and lightweight library that allows you to create a button w
 <img src="https://github.com/varunest/SparkButton/raw/master/art/showcase.gif" alt="Chat Bubble Image" width="300px"/>
 </div>
 
-### [BetterPickers](#betterpickers)
+### [BetterPickers](#better-pickers)
 
 Android library for better date/time Picker DialogFragments
 
@@ -157,7 +157,7 @@ Bootstrap style widgets for Android, with Glyph Icons
 <img src="images/android-bootstrap-11.png" alt="Shape Image View" width="150px"/>
 </div>
 
-### [ShowcaseView](#ShowcaseView)
+### [ShowcaseView](#show-case-view)
 
 The ShowcaseView (SCV) library is designed to highlight and showcase specific parts of apps to the user with a distinctive and attractive overlay. This library is great for pointing out points of interest for users, gestures, or obscure but useful items.
 
@@ -183,7 +183,7 @@ Cute view animation collection.
 <img src="images/AndroidViewAnimations.gif" alt="Shape Image View" width="300px"/>
 </div>
 
-### [SmoothProgressBar](#smoothprogressbar)
+### [SmoothProgressBar](#smooth-progressbar)
 
 A small Android library allowing you to have a smooth and customizable horizontal indeterminate ProgressBar.
 
@@ -198,7 +198,7 @@ A small Android library allowing you to have a smooth and customizable horizonta
 
 [https://github.com/lopspower/CircularFillableLoaders](https://github.com/lopspower/CircularFillableLoaders)
 
-### [FloatingActionButton](#FloatingActionButton)
+### [FloatingActionButton](#floating-action-button)
 
 Android Floating Action Button based on Material Design specification, yet another implementation of [Floating Action Button](http://www.google.com/design/spec/components/buttons.html#buttons-floating-action-button) for Android with lots of features.
 
@@ -214,7 +214,7 @@ Android Floating Action Button based on Material Design specification, yet anoth
 <img src="https://github.com/Clans/FloatingActionButton/raw/master/screenshots/progress_no_background.png" alt="Shape Image View" width="150px"/>
 </div>
 
-### [Foursquare-CollectionPicker](#Foursquare-CollectionPicker)
+### [Foursquare-CollectionPicker](#foursquare-collection-picker)
 
 Collection Picker is an Android View library that looks like Foursquare Tastes picker.
 
@@ -225,7 +225,7 @@ Collection Picker is an Android View library that looks like Foursquare Tastes p
 <img src="https://github.com/anton46/Foursquare-CollectionPicker/raw/master/image2.png" alt="Shape Image View" width="200px"/>
 </div>
 
-### [Scissors](#Scissors)
+### [Scissors](#android-scissors)
 
 Fixed viewport image cropping library for Android with built-in support for [Picasso](https://github.com/square/picasso), [Glide](https://github.com/bumptech/glide) or [Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader).
 
@@ -235,7 +235,7 @@ Fixed viewport image cropping library for Android with built-in support for [Pic
 <img src="https://github.com/lyft/scissors/raw/master/art/demo.gif" alt="Shape Image View" width="200px"/>
 </div>
 
-### [MaterialSearchView](#MaterialSearchView)
+### [MaterialSearchView](#material-search-view)
 
 Cute library to implement SearchView in a Material Design Approach.
 
@@ -250,7 +250,7 @@ Cute library to implement SearchView in a Material Design Approach.
 <img src="https://raw.githubusercontent.com/MiguelCatalan/MaterialSearchView/master/art/default.gif" alt="Shape Image View" width="200px"/>
 </div>
 
-### [BadgeView](#BadgeView)
+### [BadgeView](#badge-view)
 
 a BadeView base on android
 
