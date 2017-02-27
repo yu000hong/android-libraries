@@ -31,7 +31,7 @@ compile 'com.mikepenz:foundation-icons-typeface:3.0.0.2@aar'
 compile 'com.mikepenz:ionicons-typeface:2.0.1.2@aar'
 ```
 
-### [PhotoView](#photoview)
+### [PhotoView](#photo-view)
 
 [https://github.com/chrisbanes/PhotoView](https://github.com/chrisbanes/PhotoView)
 
